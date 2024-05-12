@@ -46,7 +46,7 @@ img {
 }
 
 .nav-link {
-  padding: 20px 0;
+  padding: 24px 0;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
@@ -72,12 +72,9 @@ img {
 }
 
 .adress-list {
+  font-style: normal;
   display: flex;
   gap: 40px;
-}
-
-.adress-link {
-  font-style: normal;
 }
 
 .first-section {
