@@ -71,17 +71,22 @@ img {
   color: #404bbf;
 }
 
-.adress-list {
+.adress-link {
   font-style: normal;
+}
+
+.adress-list {
   display: flex;
   gap: 40px;
 }
 
 .first-section {
   background-color: #2e2f42;
+  padding: 188px 0;
 }
 
 .first-section-header {
+  max-width: 496px;
   font-size: 56px;
   line-height: 1.07;
   text-align: center;
@@ -90,6 +95,13 @@ img {
 }
 
 .first-section-header-button {
+  display: block;
+  margin: auto;
+  min-width: 169px;
+  height: 56px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
   background-color: #4d5ae5;
   font-family: "Roboto", sans-serif;
   font-weight: 500;
