@@ -121,6 +121,10 @@ img {
   padding: 120px 0;
 }
 
+.second-section h2 {
+  visibility: hidden;
+}
+
 .second-section-list {
   display: flex;
   gap: 24px;
