@@ -84,6 +84,7 @@ img {
 }
 
 .adress-list {
+  list-style-type: none;
   display: flex;
   gap: 40px;
 }
@@ -143,9 +144,8 @@ img {
 }
 
 .second-section-list {
+  list-style-type: none;
   display: flex;
-  flex-wrap: wrap;
-  flex-direction: column;
   gap: 24px;
 }
 
@@ -185,9 +185,8 @@ img {
 }
 
 .third-section-list {
+  list-style-type: none;
   display: flex;
-  flex-wrap: wrap;
-  flex-direction: column;
   gap: 24px;
 }
 
@@ -235,8 +234,6 @@ img {
 
 .fourth-section-list {
   display: flex;
-  flex-wrap: wrap;
-  flex-direction: column;
   column-gap: 24px;
   row-gap: 48px;
 }
