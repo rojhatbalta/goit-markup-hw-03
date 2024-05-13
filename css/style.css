@@ -143,6 +143,7 @@ img {
 }
 
 .second-section-list {
+  list-style-type: none;
   display: flex;
   gap: 24px;
 }
@@ -183,6 +184,7 @@ img {
 }
 
 .third-section-list {
+  list-style-type: none;
   display: flex;
   gap: 24px;
 }
@@ -230,6 +232,7 @@ img {
 }
 
 .fourth-section-list {
+  list-style-type: none;
   display: flex;
   flex-wrap: wrap;
   column-gap: 24px;
