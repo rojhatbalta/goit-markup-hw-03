@@ -84,7 +84,6 @@ img {
 }
 
 .adress-list {
-  list-style-type: none;
   display: flex;
   gap: 40px;
 }
@@ -144,7 +143,6 @@ img {
 }
 
 .second-section-list {
-  list-style-type: none;
   display: flex;
   gap: 24px;
 }
@@ -185,7 +183,6 @@ img {
 }
 
 .third-section-list {
-  list-style-type: none;
   display: flex;
   gap: 24px;
 }
