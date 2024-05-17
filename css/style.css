@@ -29,6 +29,7 @@ img {
 
 .header-container {
   display: flex;
+  flex-direction: row;
 }
 
 .header-nav {
@@ -39,8 +40,9 @@ img {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
-  align-items: center;
+  justify-content: center;
   display: flex;
+  margin-right: 40px;
 }
 
 .nav-logo {
@@ -53,6 +55,7 @@ img {
 }
 
 .nav-menu {
+  list-style-type: none;
   display: flex;
   gap: 40px;
 }
@@ -88,6 +91,7 @@ img {
 }
 
 .adress-list {
+  list-style-type: none;
   display: flex;
   gap: 40px;
 }
